@@ -13,7 +13,7 @@ class Dog{
   }
   function speak()
   {
-    
+    return `${this.name} says woof!`;
   }
 }
 
